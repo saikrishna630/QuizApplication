@@ -23,20 +23,6 @@ This is a Spring Boot-based backend application for managing quizzes and questio
 
 ---
 
-## 📁 Project Structure
-src/
-└── main/
-├── java/
-│ └── com.example.quiz
-│ ├── controller
-│ ├── model
-│ ├── repository
-│ └── service
-└── resources/
-└── application.properties
-
----
-
 ## 🔌 REST API Endpoints
 
 ### 📄 Question APIs
